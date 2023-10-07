@@ -1,0 +1,60 @@
+.envelope {
+   height: 77px;
+   width: 100px;
+   background-color:#f4e2c3;
+   box-shadow: 0px 1px 1px gray;
+   border-bottom-left-radius: 5px;
+   border-bottom-right-radius: 5px;
+   position: absolute;
+   left: 70%;
+   top: 35%;
+   z-index: 1;
+}
+
+.envelope-front {
+   height: 75px;
+   width: 100px;
+   background-color:#f4e2c3;
+   box-shadow: 0px -1px 1px gray;
+   border-bottom-left-radius: 5px;
+   border-bottom-right-radius: 5px;
+   position: absolute;
+   bottom: 0;
+   z-index: 20;
+}
+
+#heart {
+   width: 100%;
+   position: absolute;
+   transition: 0.5s all;
+   bottom: -25%;
+   z-index: 15;
+}
+
+.triangle {
+   position: absolute;
+   z-index: 30;
+}
+
+.triangle > polygon {
+   fill:#F4E2C3;
+   stroke: #F4E2C3;
+   stroke-width: 1;
+   filter: drop-shadow(0px 1px 1px gray);
+}
+
+.envelope > .triangle {
+   transition-delay: 0.4s;
+}
+
+.envelope:hover > .triangle {
+   transform: scaleY(-1) translateY(100%);
+   transition-delay: 0s;
+   z-index: 10;
+}
+
+.envelope:hover > #heart {
+   transition-delay: 0.2s;
+   transform: translateY(-100%) rotate(-90deg);
+}
+
