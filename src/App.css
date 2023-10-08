@@ -3,6 +3,7 @@
 #root {
    background-color: black;
    height: 100vh;
+   user-select: none;
 }
 
 .canvas {

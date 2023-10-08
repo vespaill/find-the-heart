@@ -8,10 +8,13 @@ const EnvelopeContainer = () => {
    const [is_revealed, setIsRevealed] = useState(false);
 
    return <>
-      <button className={`concealment ${is_revealed? "reveal" : ""}`}
-              onClick={() => setIsRevealed(true)}>
-         <img src={x_mark}/>
-      </button>
+      <div className={`concealment ${is_revealed? "reveal" : ""}`}>
+         <svg viewBox="0 0 150 150"
+            onClick={() => setIsRevealed(true)}>
+            <polygon points="0,0 0,150 20,130 50,140 70,125 100,140 150,90 140,80 150,75 140,60 150,50 100,10 75,10 55,0 25,10"/>
+         </svg>
+         <img id='x-mark' src={x_mark}/>
+      </div>
       <Envelope top="200px" left="885px"/>
    </>
 
