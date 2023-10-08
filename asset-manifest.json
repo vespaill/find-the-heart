@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/find-the-treasure/static/css/main.345bee21.css",
-    "main.js": "/find-the-treasure/static/js/main.6697d7b2.js",
+    "main.css": "/find-the-treasure/static/css/main.36933a66.css",
+    "main.js": "/find-the-treasure/static/js/main.f9248bee.js",
     "static/media/map.png": "/find-the-treasure/static/media/map.a33f096730b95b2e3e83.png",
     "static/media/heart-rotated.png": "/find-the-treasure/static/media/heart-rotated.aaa48b85d8aab131f91f.png",
     "static/media/compass.png": "/find-the-treasure/static/media/compass.6e8f2ed68562c34a1830.png",
@@ -10,16 +10,17 @@
     "static/media/kraken.png": "/find-the-treasure/static/media/kraken.a95d981639c3ade90501.png",
     "static/media/shipwreck-2.png": "/find-the-treasure/static/media/shipwreck-2.90998a2dc7fe16441bcb.png",
     "static/media/skull-and-crossbones.png": "/find-the-treasure/static/media/skull-and-crossbones.7fbd5fea6eac3959f563.png",
+    "static/media/x-mark.png": "/find-the-treasure/static/media/x-mark.02b4f6beee9eaa91d7d7.png",
     "static/media/mountains.png": "/find-the-treasure/static/media/mountains.30b5042fe1e6a64c9d05.png",
     "static/media/tombstone.png": "/find-the-treasure/static/media/tombstone.720556a79a435c4e44fa.png",
     "static/media/sailing-ship.png": "/find-the-treasure/static/media/sailing-ship.d0481f09443f9b5970a7.png",
     "static/media/treasure-chest-2.png": "/find-the-treasure/static/media/treasure-chest-2.af1151edff4242a449f4.png",
     "index.html": "/find-the-treasure/index.html",
-    "main.345bee21.css.map": "/find-the-treasure/static/css/main.345bee21.css.map",
-    "main.6697d7b2.js.map": "/find-the-treasure/static/js/main.6697d7b2.js.map"
+    "main.36933a66.css.map": "/find-the-treasure/static/css/main.36933a66.css.map",
+    "main.f9248bee.js.map": "/find-the-treasure/static/js/main.f9248bee.js.map"
   },
   "entrypoints": [
-    "static/css/main.345bee21.css",
-    "static/js/main.6697d7b2.js"
+    "static/css/main.36933a66.css",
+    "static/js/main.f9248bee.js"
   ]
 }
