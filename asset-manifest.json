@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/find-the-heart/static/css/main.345bee21.css",
-    "main.js": "/find-the-heart/static/js/main.bd12f224.js",
-    "static/media/map.png": "/find-the-heart/static/media/map.a33f096730b95b2e3e83.png",
-    "static/media/heart-rotated.png": "/find-the-heart/static/media/heart-rotated.aaa48b85d8aab131f91f.png",
-    "static/media/compass.png": "/find-the-heart/static/media/compass.6e8f2ed68562c34a1830.png",
-    "static/media/shipwreck.png": "/find-the-heart/static/media/shipwreck.469348f598b05151df41.png",
-    "static/media/volcano.png": "/find-the-heart/static/media/volcano.8c6c2a9aed8b75c40bb9.png",
-    "static/media/kraken.png": "/find-the-heart/static/media/kraken.a95d981639c3ade90501.png",
-    "static/media/shipwreck-2.png": "/find-the-heart/static/media/shipwreck-2.90998a2dc7fe16441bcb.png",
-    "static/media/skull-and-crossbones.png": "/find-the-heart/static/media/skull-and-crossbones.7fbd5fea6eac3959f563.png",
-    "static/media/mountains.png": "/find-the-heart/static/media/mountains.30b5042fe1e6a64c9d05.png",
-    "static/media/tombstone.png": "/find-the-heart/static/media/tombstone.720556a79a435c4e44fa.png",
-    "static/media/sailing-ship.png": "/find-the-heart/static/media/sailing-ship.d0481f09443f9b5970a7.png",
-    "static/media/treasure-chest-2.png": "/find-the-heart/static/media/treasure-chest-2.af1151edff4242a449f4.png",
-    "index.html": "/find-the-heart/index.html",
-    "main.345bee21.css.map": "/find-the-heart/static/css/main.345bee21.css.map",
-    "main.bd12f224.js.map": "/find-the-heart/static/js/main.bd12f224.js.map"
+    "main.css": "/find-the-treasure/static/css/main.345bee21.css",
+    "main.js": "/find-the-treasure/static/js/main.6697d7b2.js",
+    "static/media/map.png": "/find-the-treasure/static/media/map.a33f096730b95b2e3e83.png",
+    "static/media/heart-rotated.png": "/find-the-treasure/static/media/heart-rotated.aaa48b85d8aab131f91f.png",
+    "static/media/compass.png": "/find-the-treasure/static/media/compass.6e8f2ed68562c34a1830.png",
+    "static/media/shipwreck.png": "/find-the-treasure/static/media/shipwreck.469348f598b05151df41.png",
+    "static/media/volcano.png": "/find-the-treasure/static/media/volcano.8c6c2a9aed8b75c40bb9.png",
+    "static/media/kraken.png": "/find-the-treasure/static/media/kraken.a95d981639c3ade90501.png",
+    "static/media/shipwreck-2.png": "/find-the-treasure/static/media/shipwreck-2.90998a2dc7fe16441bcb.png",
+    "static/media/skull-and-crossbones.png": "/find-the-treasure/static/media/skull-and-crossbones.7fbd5fea6eac3959f563.png",
+    "static/media/mountains.png": "/find-the-treasure/static/media/mountains.30b5042fe1e6a64c9d05.png",
+    "static/media/tombstone.png": "/find-the-treasure/static/media/tombstone.720556a79a435c4e44fa.png",
+    "static/media/sailing-ship.png": "/find-the-treasure/static/media/sailing-ship.d0481f09443f9b5970a7.png",
+    "static/media/treasure-chest-2.png": "/find-the-treasure/static/media/treasure-chest-2.af1151edff4242a449f4.png",
+    "index.html": "/find-the-treasure/index.html",
+    "main.345bee21.css.map": "/find-the-treasure/static/css/main.345bee21.css.map",
+    "main.6697d7b2.js.map": "/find-the-treasure/static/js/main.6697d7b2.js.map"
   },
   "entrypoints": [
     "static/css/main.345bee21.css",
-    "static/js/main.bd12f224.js"
+    "static/js/main.6697d7b2.js"
   ]
 }
