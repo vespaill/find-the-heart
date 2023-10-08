@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/find-the-treasure/static/css/main.8b3ac971.css",
+    "main.css": "/find-the-treasure/static/css/main.8cd72707.css",
     "main.js": "/find-the-treasure/static/js/main.5fb8275a.js",
     "static/media/map.png": "/find-the-treasure/static/media/map.a33f096730b95b2e3e83.png",
     "static/media/heart-rotated.png": "/find-the-treasure/static/media/heart-rotated.aaa48b85d8aab131f91f.png",
@@ -16,11 +16,11 @@
     "static/media/sailing-ship.png": "/find-the-treasure/static/media/sailing-ship.d0481f09443f9b5970a7.png",
     "static/media/treasure-chest-2.png": "/find-the-treasure/static/media/treasure-chest-2.af1151edff4242a449f4.png",
     "index.html": "/find-the-treasure/index.html",
-    "main.8b3ac971.css.map": "/find-the-treasure/static/css/main.8b3ac971.css.map",
+    "main.8cd72707.css.map": "/find-the-treasure/static/css/main.8cd72707.css.map",
     "main.5fb8275a.js.map": "/find-the-treasure/static/js/main.5fb8275a.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b3ac971.css",
+    "static/css/main.8cd72707.css",
     "static/js/main.5fb8275a.js"
   ]
 }
