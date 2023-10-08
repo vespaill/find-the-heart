@@ -15,7 +15,7 @@ const IconGroup = ({ src, flip, quantity, width, top, left, distance_apart }) =>
    return <div style={tree_group_style}>
       {Array.from({ length: quantity }).map((_item, index) => {
          const top = (index % 2 == 0)? 0 : distance_apart*(flip? 1 : -1);
-         return <Icon width={width} src={src} top={`${top}px`} left={`${index*distance_apart}px`}/>
+         return <Icon key={index} width={width} src={src} top={`${top}px`} left={`${index*distance_apart}px`}/>
       })}
    </div>
 

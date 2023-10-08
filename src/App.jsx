@@ -1,6 +1,6 @@
 import "./App.css";
 import map from "./assets/map.png";
-import Envelope from "./components/Envelope/Envelope";
+import EnvelopeContainer from "./components/EnvelopeContainer/EnvelopeContainer";
 import Icon from "./components/Icon";
 import IconGroup from "./components/IconGroup";
 
@@ -30,7 +30,7 @@ const App = () => (
    <div className="canvas">
    <div className="map-container">
       <img className="map" src={map}></img>
-      <Envelope top="200px" left="885px"/>
+      <EnvelopeContainer/>
 
       <Icon src={house} width={20} top='65px' left='797px'/>
       <Icon src={volcano} width={85} top='200px' left='750px'/>

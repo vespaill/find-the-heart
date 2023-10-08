@@ -1,0 +1,30 @@
+.concealment {
+   position: absolute;
+   height: 150px;
+   width: 150px;
+   top:150px;
+   left:870px;
+   background-color: #f1d9b0;
+   cursor: pointer;
+   border: none;
+   border-top-right-radius: 15px;
+   border-bottom-right-radius: 15px;
+   border-top: 1px solid black;
+   border-right: 1px solid black;
+   border-bottom: 1px solid black;
+   z-index: 3000;
+   transform-origin: center left;
+}
+
+.concealment > img {
+   filter: invert(23%) sepia(100%) saturate(7500%) hue-rotate(358deg) brightness(103%) contrast(110%);
+   width: 25%;
+}
+
+.reveal {
+   animation: 0.5s linear 1 normal forwards reveal;
+}
+
+@keyframes reveal {
+   to {transform: scaleX(0);}
+}
